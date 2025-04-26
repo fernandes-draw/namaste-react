@@ -18,6 +18,8 @@
   "license": "ISC",
   "author": "Everson Fernandes",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "dependencies": {
